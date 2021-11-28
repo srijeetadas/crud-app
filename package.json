@@ -4,7 +4,7 @@
   "description": "Crud App with Node js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/srijeetadas/crud-app/issues"
   },
-  "homepage": "https://github.com/srijeetadas/crud-app#readme"
+  "homepage": "https://github.com/srijeetadas/crud-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
