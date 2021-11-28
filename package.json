@@ -1,0 +1,19 @@
+{
+  "name": "crud-app",
+  "version": "1.0.0",
+  "description": "Crud App with Node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srijeetadas/crud-app.git"
+  },
+  "author": "srijeeta das",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srijeetadas/crud-app/issues"
+  },
+  "homepage": "https://github.com/srijeetadas/crud-app#readme"
+}
